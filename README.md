@@ -4,6 +4,8 @@
 
 使用Simpletex接口，支持上传图片与粘贴图片对图片进行公式识别。
 
+本项目在线体验：[Duu公式识别](http://114.115.168.139/)
+
 > [SimpleTex主页](https://simpletex.cn/)
 
 ## 快速开始
