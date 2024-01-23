@@ -1,7 +1,7 @@
 import axios, {AxiosInstance} from "axios";
 
 const myAxios: AxiosInstance = axios.create({
-    baseURL: 'http://114.115.168.139:8108',
+    baseURL: '自己后端的地址',
 });
 
 // myAxios.defaults.withCredentials = true; // 配置为true
